@@ -3,7 +3,7 @@ layout: post
 title: "Creating content from GitHub"
 description: ""
 category: Technology
-tags: [Jekyll]
+tags: [jekyll]
 ---
 {% include JB/setup %}
 
