@@ -6,9 +6,9 @@ category: "Strength Training"
 tags: [powerlifting, training log, deadlift, press]
 ---
 
-Starting Strength has been very good so far. Reading Andy Bolton's incredibly simple "cycling" methods — basically add small increments until you pull 1000+, ha! — continues to reinforce the fact that simplicity and consistency really are key.
+The basic Starting Strength style template has been very good so far. Reading Andy Bolton's incredibly simple "cycling" methods — basically starting light and making small, steady progressions — continues to reinforce the fact that simplicity and consistency really are key. Although in the case of Andy, you basically start with 500 on deadlift, work up to 750 x 3, then go pull 1000+!
 
-Today I continued with:
+Today I resumed the small and steady progressions with:
 
 ## 1. Deadlift ##
 * 445 x 5 @ 6.5 (paused below the knee)
