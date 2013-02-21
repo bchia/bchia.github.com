@@ -94,7 +94,7 @@ JB :
     intensedebate :
       account : 123abc
     facebook : 
-      appid : http://bchia.github.com/
+      appid : 600141483344878
       num_posts: 5
       width: 600
       colorscheme: light
