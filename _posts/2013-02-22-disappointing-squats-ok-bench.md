@@ -30,3 +30,6 @@ Bench felt pretty good today. Was only supposed to do 250 x 5 x 3 but everything
 
 * 225 x many sets of doubles and triples
 * 225 x 5 for a top set
+
+### 4. Dips
+* BW x 20 x 2 sets
