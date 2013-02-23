@@ -2,7 +2,7 @@
 layout: post
 title: "Wednesday training"
 description: ""
-category: "Strength Training"
+category: "StrengthTraining"
 tags: [powerlifting, training log, deadlift, press]
 ---
 

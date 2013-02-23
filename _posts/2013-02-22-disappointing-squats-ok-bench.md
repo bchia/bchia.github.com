@@ -3,7 +3,7 @@ layout: post
 title: "Crappy squat Friday"
 description: ""
 tagline: "I hate squats"
-category: "Strength Training"
+category: "StrengthTraining"
 tags: [powerlifting, training log]
 ---
 {% include JB/setup %}

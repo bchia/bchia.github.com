@@ -2,7 +2,7 @@
 layout: post
 title: "Prowler madness"
 description: ""
-category: "Strength Training"
+category: "StrengthTraining"
 tags: [training log, powerlifting, conditioning]
 ---
 {% include JB/setup %}
@@ -35,6 +35,6 @@ Time for an intense bodybuilding style workout. I like heavy > medium > light, i
 
 ### Conditioning: prowler
 
-We push the prowler on artifical turf, with each lap being approximately 15m down on the low handles and 15m back on the high handles. We have an informal challenge to see who will give up last.  The original goal was 10 laps, with 4 people on 2 prowlers alternating. We got to 10, said fuck it and went to 15. I was feeling pretty good so I pushed it to 20. Eric then tried to get another lap in. Of course, I couldn't let him beat me so we both ended up going up to 25 and agreed to stop there. Chris and Steve made it to 20.
+We push the prowler on artifical turf, with each lap being approximately 15m down on the low handles and 15m back on the high handles. We have an informal challenge to see who will give up last.  The original goal was 10 laps, with 4 people taking turns on 2 prowlers. We got to 10 and decided, fuck it let's just do 15. I was feeling pretty good so I pushed it to 20. Eric then tried to get another lap in. Of course, I couldn't let him beat me so we both ended up going up to 25 and agreed to stop there. Chris and Steve made it to 20.
 
 Total distance: 25 laps, approximately 750m. Halfway to a mile!
