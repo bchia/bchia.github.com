@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Depressing"
+title: "Crappy squat Friday"
 description: ""
 tagline: "I hate squats"
 category: "Strength Training"
