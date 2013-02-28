@@ -7,8 +7,6 @@ tags: [powerlifting, training log]
 ---
 {% include JB/setup %}
 
-### Wednesday night:
-
 ### Warm-up
 
 Prowler: 160 x 5 laps (with some rest between laps)
@@ -16,10 +14,12 @@ Prowler: 160 x 5 laps (with some rest between laps)
 ### 0. Squat
 up to 225 x suckage. Hip still fucked.
 
+
 ### 1. Deadlift
 * 315 x 1 against orange band, 1 with no bands
 * 365 x 1 against orange band, 1 with no bands
 * 405 x 1 against orange band, 1 with no bands
+
 
 ### 2. Bench press (all paused)
 * 95 x 5
@@ -30,11 +30,13 @@ up to 225 x suckage. Hip still fucked.
 * 260 x 5 @ 8.5
 * 260 x 5 @ 8
 
+
 ### 3. Close grip
 * 290 x 1 @ 9.5
 * 245 x 5 feet up
 * 245 x 5 feet up
 * 225 x 5 feet up 
+
 
 ### 4a. Incline DB bench
 75 x 10 x 4
