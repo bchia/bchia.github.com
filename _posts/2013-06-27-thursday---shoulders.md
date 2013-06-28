@@ -2,7 +2,7 @@
 layout: post
 title: "Thursday - shoulders"
 description: ""
-category: StrengthTraining
+category: Strength Training
 tags: [bodybuilding, shoulders, training log]
 ---
 {% include JB/setup %}
