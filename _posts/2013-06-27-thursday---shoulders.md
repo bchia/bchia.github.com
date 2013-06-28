@@ -7,6 +7,11 @@ tags: [bodybuilding, shoulders, training log]
 ---
 {% include JB/setup %}
 
+## AM - conditioning
+Biked approximately 7 miles. See details on [Map My Ride] (http://www.mapmyride.com/workout/313005339).
+
+## PM - shoulders
+
 * Seated DB press - 75 x 10 x 4
 * Seated DB lateral raise - 30 x 10, 35 x 10 x 3
 * Face-pull - 10 x 4
